@@ -62,5 +62,6 @@
 		android:layout_height="wrap_content"
 		android:text="Login"
 		android:textSize="18sp"
-		android:fontFamily="@font/montserrat_light" />
+		android:fontFamily="@font/montserrat_light"
+		android:onClick="clickLogin"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
